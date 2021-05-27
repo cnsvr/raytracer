@@ -8,6 +8,7 @@
 
 using namespace std;
 
+// all spheres
 vector<sphere> allSpheres;
 
 void parse(string inputFile);
