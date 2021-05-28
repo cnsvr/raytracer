@@ -1,2 +1,1 @@
-# raytracing hw for CmpE460 course
-Deneme
+# raytracing hw for CmpE460 courseDeneme
