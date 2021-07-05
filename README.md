@@ -1,3 +1,3 @@
 sadaasdasd
-# raytracing hw for CmpE460 courseDenemeasdasdasdasd
+# raytracing hw for CmpE460 courseDeneme
 sadadasdad
